@@ -1,3 +1,0 @@
-this is the story of the second file.
-
-that is altered by backup repository
